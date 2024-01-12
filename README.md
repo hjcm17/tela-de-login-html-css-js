@@ -1,7 +1,11 @@
 # Tela de Login
 
-## Esse é apenas um projeto básico para começar a treinar o HTML e CSS.
+## Introdução
+Projeto básico para começar a treinar o HTML e CSS. 
 
-Atenciosamente,
+## Objetivo do Projeto
+Desenvolver uma tela de login (simples) para meu aprendizado e experiência como desenvolvedor web.
 
-Hugo Mota
+**Contato:**
+- Nome: Hugo Mota
+- Email: hugojcmota@gmail.com
